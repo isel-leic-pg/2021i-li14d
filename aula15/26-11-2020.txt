@@ -1,0 +1,8 @@
+- Funções locais
+
+- Exercício das bolas 
+    - Adicionar uma bola cada vez que se carrega numa tecla - Usar Operador + e função random num intervalo
+    - Mover todas bolas -> Chamar para cada bola função step - Usar Função map 
+    - Desenhar todas as bolas -> Chamar para cada bola função drawBall - Usar Função foreach
+
+//TODO

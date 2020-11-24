@@ -1,0 +1,20 @@
+Enunciado do Primeiro Trabalho
+Grupos 
+    Moddle - Fotografia
+    Canais Slack - Formato do nome - Numero-Nome-LEIC14D-GXX
+Terminar Snowman
+Exercício da Bola
+    - Desenhar "bola" no lado direito do canvas
+    - Desenhar "bola" no lado esquerdo do canvas
+    - Carregar numa tecla qualquer e desenhar bola para no lado oposto   
+        - onKeyPressed
+        - Criação duma variável - var
+        - Criação do tipo agregado Ball
+        - Expressão de decisão binária if
+            v  = if(Expressão Booleana) Expressão else Expressão
+    - Carregar em:
+        - m : "move" bola para o lado oposto
+        - c : desenha bola no centro
+        - u : desenha bola na parte de cima 
+        - d : desenha bola na parte de baixo 
+    - Premir botão do rato e desenhar bola

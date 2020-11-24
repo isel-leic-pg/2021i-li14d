@@ -1,0 +1,28 @@
+ Demonstrações - Dia 24 Terça-feira
+    - 15:30 - G13
+    - 15:40 - G10 
+    - 15:50 - G3
+    - 16:00 - G1
+    - 16:10 - G2
+    - 16:20 - G4
+    - 16:30 - G5
+    - 16:40 - G6
+    - 16:50 - G7
+    - 17:00 - G8
+    - 17:10 - G9
+    - 17:30 - G11
+    - 17:40 - G12
+    
+- Intervalos
+- Bola com movimento horizontal
+- Duas bolas com movimento horizontal
+
+MUITA ATENÇÃO AOS PRÓXIMOS PONTOS
+
+- High order Functions - Funções como valor 
+- Listas
+    - Criação
+    - Index
+    - Size
+    - Função .foreach
+

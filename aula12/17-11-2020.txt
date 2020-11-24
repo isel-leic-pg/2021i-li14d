@@ -1,0 +1,19 @@
+- Demonstrações - Proposta de datas
+    Dia 24 Terça-feira
+    - 16:00 - G1 
+    - 16:10 - G2
+    - 16:20 - G4
+    - 16:30 - G5
+    - 16:40 - G6
+    - 16:50 - G7
+    - 17:00 - G8 
+    - 17:10 - G9
+    - 17:20 - G10 
+    - 17:30 - G11
+    - 17:40 - G12
+    - 17:50 - G13
+    
+- Correção da ficha
+- Revisão do exercício da bola
+- Temporizador
+- Bola em movimento

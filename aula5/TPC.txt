@@ -1,0 +1,47 @@
+TPC 
+
+Indique o resultado das seguintes expressões, assim como o seu tipo 
+(use o REPL em caso de dúvida):
+
+30 + 3
+
+40 + 4L
+
+-2+2*4
+
+2.toShort() + 4
+
+2.toShort() +  3L
+
+9 / 2
+
+9.0 / 2
+
+9f / 2
+
+45.5.toInt() + 2
+
+‘b’ + 2
+
+‘b’ – ‘a’
+
+‘b’ + ‘a’ :(
+
+Implemente um programa para calcular e apresentar a nota final da disciplina de Programação.
+O programa recebe do utilizador as notas das 3 melhores fichas, a nota da componente teórica e a nota da componente prática.
+No final é apresentado o valor da nota final, o valor deve ser um inteiro (ver página do moodle sobre avaliação). 
+
+Exemplo:
+
+Ficha1?
+10
+Ficha2?
+9
+Ficha3?
+11
+Teorica?
+10
+Pratica?
+12
+
+Nota Final de Programacao = 11

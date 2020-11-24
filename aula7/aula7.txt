@@ -1,0 +1,16 @@
+Criação de grupos
+Revisão da aula anterior
+Passagem do código da data class Time e da funcão toTime para o ficheiro Time.kt
+Simplificar retorno das funções 
+Introdução ao IntelliJ
+    Criação de projeto para kotlin
+    Debug 
+        Execução passo a passo dum programa
+        Breakpoints
+Resumo sobre funções
+Introdução ao CanvasLib
+    onStart
+        funções draw...
+TPC
+    Criar função drawTriangle que tem como parâmetros três pontos
+    Criar função drawSnowMan com chapeu e nariz em triângulo  

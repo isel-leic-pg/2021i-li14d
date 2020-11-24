@@ -1,0 +1,54 @@
+Instalar a última versão do Intellij Community, se tiverem uma versão anterior devem desinstalar
+
+Criar Projeto
+
+1 . Na janela de apresentação, escolha a opção "New Project" 
+    1.1 Se estiver na janela principal, deve selecionar na barra de menu "File" > "New" > "Project...".
+2. Na janela "New Project" selecionar "Kotlin".
+    2.1 Como "Project Template"selecionar "Console Application" do grupo "JVM"
+    2.2 Escreva o nome do projeto, o que quiser
+    2.3 Botão Next
+3. Na janela seguinte 
+    3.1 Selecione "None" no tipo de "Template"
+    3.2 Selecione "None" no tipo de "Test framework
+    3.3 A versão da JVM deve ser a mais atual que estiver disponível
+
+Para usar CanvasLib
+4 . Ir à página da disciplina no moodle (não é a da turma), a recursos 
+    ( https://2021moodle.isel.pt/mod/folder/view.php?id=124259 )
+5. Fazer download dos ficheiros
+    5.1 CanvasLib-jvm-1.0.0-sources.jar
+    5.2 CanvasLib-jvm-1.0.0.jar
+6. Ir à pasta raiz do projecto criado, através do explorador do windows
+7. Criar pasta Libs
+8. Copiar os dois ficheiros para a pasta Libs
+9. Abrir o ficheiro build.gradle.kts, está na raiz do projeto
+10. Acrescentar:
+    10.1 Uma linha com flatDir{dirs("libs")} por baixo de mavenCentral()
+    10.2 No final do ficheiro
+        dependencies {
+            implementation("pt.isel:CanvasLib-jvm:1.0.0")
+        }
+11. Selecione na barra de menu View -> Tool Windows -> gradle
+12. Pressionar "reload" por baixo da palavra gradle o botão com as duas setas
+13. Pronto para trabalhar
+14. Criar Ficheiro Kotlin Empty.kt em na pasta src/main/kotlin
+    14.1 Copiar o conteudo abaixo e gravar:
+    
+    import pt.isel.canvas.*
+
+    fun main() {
+        onStart {
+            val cv = Canvas(600, 400)
+            // ...
+        }
+        onFinish {
+            // ...
+        }
+    }
+15. Executar função main
+16. Se aparecer uma janela com fundo branco está tudo OK
+    
+
+
+
