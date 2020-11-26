@@ -1,8 +1,78 @@
-- Funções locais
+- Link para repositório - https://github.com/isel-leic-pg/2021i-li14d/
 
-- Exercício das bolas 
+- Notas sobre o 1º trabalho 
+
+  - Uso de const val 
+    - Só pode ser dum tipo primitivo Byte, Short, Int... ou String 
+    - Identificador/Nome em letras maiusculas - LEFT_CODE
+  - Variáveis e Valores 
+    - Identificador/Nome começa sempre com letra minuscula - idUser
+  - Alguma repetição de código que podia ter sido evitada com a criação de novos val e funções
+
+- Apresentação do 2º Trabalho
+ - Função onMouseMove
+
+-Relembrar data da 2ª Ficha - 3 de Dezembro
+
+-------------------------------------------------
+- Funções Puras / Funções com efeitos colaterais
+
+  - Funções puras, as que não produzem nenhum efeito colateral: 
+        - o valor retornado só depende dos valores dos parâmetros 
+        - retorna sempre o mesmo valor para os mesmos argumentos. 
+
+  - Um efeito colateral é usar ou alterar algo exterior à função, exemplos:
+        - Chamar println() 
+        - ou readline() 
+        - ou afetar uma variável global.
+
+--------------------------------------------------
+- Instruções vs Expressões
+
+  - As instruções executam-se e as expressões avaliam-se.
+  - Expressões produzem resultados quando são avaliadas
+    - O resultado será um valor de um tipo bem determinado. 
+      2 + 5 resultado = 7 tipo Int 
+      
+  - Instruções produzem efeitos quando são executadas, mas não resultados
+      x = 2 + 5 afetação alterar o valor de x 
+      y = (x = 2 + 5)
+
+  - Em Kotlin qualquer expressão também é uma instrução, mas o contrário não é verdade.
+      2 + 5 
+--------------------------------------------------
+
+- Revisão da última aula
+  - Funções Extensão
+    - Permite acrescentar novas funções a tipos já existentes, exemplo: Canvas
+    - Torna o código mais legivel - remove a necessidade de passar mais um parâmetro
+    - É preciso ter cuidado, a função tem de ser acrecentada a um tipo que faça sentido
+  - Função forEach
+  - Função map
+
+- Função como valor
+
+  - fun add(a : Int, b : Int) : Int = a + b 
+  - val f : (Int, Int) -> Int = ::add
+  - val res : Int = f(2,3) //5  
+
+- Exercício das bolas - Funções locais
     - Adicionar uma bola cada vez que se carrega numa tecla - Usar Operador + e função random num intervalo
     - Mover todas bolas -> Chamar para cada bola função step - Usar Função map 
     - Desenhar todas as bolas -> Chamar para cada bola função drawBall - Usar Função foreach
 
-//TODO
+
+- Listas
+  - Função forEach - Performs the given action on each element.
+  - Função map - Returns a list containing the results of applying the given transform function to each element in the original collection.
+  - Função filter - Returns a list containing only elements matching the given predicate function.
+  //- Função fold - Accumulates value starting with initial value and applying operation from left to right to current accumulator value and each element.
+
+- Expressões Lambda 
+ - É possível definir funções sem nome em expressões, designadas por Expressões Lambda.
+
+  - val f : (Int, Int) -> Int = { a:Int, b:Int -> a + b}
+  - val res : Int = f(2,3) //5
+
+
+
