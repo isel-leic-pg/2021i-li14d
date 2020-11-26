@@ -33,8 +33,6 @@ fun main() {
 
         cv.onKeyPressed { k ->
             //Adicionar uma nova bola
-            println(k.code)
-
             balls = balls + Ball(RADIUS, (100..1000).random(), 10)
             if(k.code == ESCAPE_CODE)
                 cv.close()
