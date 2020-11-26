@@ -73,13 +73,3 @@
 
   - val f : (Int, Int) -> Int = { a:Int, b:Int -> a + b}
   - val res : Int = f(2,3) //5
-
-<<<<<<< HEAD
-=======
-  ou 
-
-  - val res : Int = { a:Int, b:Int -> a + b} //5
-
->>>>>>> 63a62abf51c8ed19629aa9578257f3ec57de4cb4
-
-
