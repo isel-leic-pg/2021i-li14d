@@ -1,0 +1,12 @@
+- Regras da 2ª Ficha
+    - Inicio 11:45
+    - Termina 12:15
+    - 10 Breakout rooms - cada uma com um aluno 
+    - Existem perguntas que a resposta errada desconta
+- Dúvidas sobre o 2º Trabalho
+    - onTimeProgress
+    - Tipo Game
+- Expressões Lambda - Revisão
+- LaserBlaster - Cannon
+    - Divisão em ficheiros
+    

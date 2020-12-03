@@ -73,3 +73,4 @@
 
   - val f : (Int, Int) -> Int = { a:Int, b:Int -> a + b}
   - val res : Int = f(2,3) //5
+
