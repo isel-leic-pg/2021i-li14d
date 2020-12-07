@@ -7,6 +7,5 @@
     - onTimeProgress
     - Tipo Game
 - Expressões Lambda - Revisão
-- LaserBlaster - Cannon
+- LaserBlast - Cannon
     - Divisão em ficheiros
-    
