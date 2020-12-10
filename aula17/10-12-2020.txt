@@ -1,0 +1,19 @@
+- Informação sobre a 2ª Ficha
+   - Possibilidade de repetição presencial da 2ª Ficha
+   - Sexta-feira dia 18 de Dezembro às 14:00, numa sala a definir
+   - Qualquer aluno que ache que tenha sido prejudicado pelo temporizador do moodle pode repetir
+   - Quem decidir repetir, terá de dizer-me até à próxima terça-feira
+   - Só conta uma nota, quem repetir terá a nota da repetição, seja ela qual for
+
+- No 2º trabalho 
+   - Têm de ser respeitadas todas as regras do enunciado (Só pode haver um ponto de mutabilidade, etc...)
+   - Só podem usar aquilo que foi dado nas aulas (instrução while, etc... não podem usar)
+
+- Continuação da implementação do programa LaserBlast
+   - Sem extension functions
+   - Com extension functions
+
+- Aula prática -11:15 às 12:30
+    - Ver o estado do trabalho de cada grupo e tirar dúvidas
+
+Possibilidade de tirar dúvidas do trabalho sexta-feira das 16:00 às 17:00, confirmar com os alunos

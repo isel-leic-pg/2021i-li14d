@@ -6,7 +6,7 @@ data class Cannon(val x : Int, val  y: Int, val active : Boolean)
 
 fun move(x : Int, y : Int, c: Cannon) : Cannon = Cannon(x, y, c.active)
 
-fun enable(x : Int, y : Int) : Cannon = Cannon(x, y, true)
+fun enable(c: Cannon) : Cannon = Cannon(c.x, c.y, true)
 
 fun disable(c : Cannon) : Cannon = Cannon(c.x, c.y, false)
 

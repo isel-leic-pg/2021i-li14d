@@ -1,33 +1,33 @@
 import pt.isel.canvas.*
 
 /**
-* LaserBlast implementation without extension functions
+* LaserBlast implementation using extension functions
 * */
 
 fun main() {
     onStart {
         val cv : Canvas = Canvas(1024, 768, BLACK)
         var game : Game = startGame(cv.width, cv.height)
-        draw(cv, game)
+        game.draw(cv)
 
         cv.onMouseMove { me ->
-            game = moveCannon(me.x, me.y, game)
+            game = game.moveCannon(me.x, me.y)
         }
 
         cv.onMouseDown { me ->
-            game = enableCannon(game)
+            game = game.enableCannon()
             cv.onTime( 100){
-                game = disableCannon(game)
+                game = game.disableCannon()
             }
         }
 
         cv.onTimeProgress( 10){
-            game = step(game)
-            draw(cv, game)
+            game = game.step()
+            game.draw(cv)
         }
 
         cv.onKeyPressed {
-            game = addUfo(game)
+            game = game.addUfo()
         }
     }
     onFinish {
