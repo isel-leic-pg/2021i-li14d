@@ -1,0 +1,17 @@
+O sistema operativo (SO) é a parte do software que interage diretamente com o hardware
+e fornece uma interface de utilização aos programas, ou aplicações. O Windows, o Linux
+e o macOS, são dos sistemas operativos mais usados em computadores fixos e portáteis.
+O Android e o iOS são dos mais usados em dispositivos móveis.
+Os programas e as aplicações são a parte do software visível para o utilizador que
+usam a interface disponibilizada pelo SO. Os programas podem ser instalados e desinstalados,
+mas alguns são instalados simultaneamente com o SO. O navegador na Internet (browser),
+o editor de documentos e o gestor de ficheiros e de pastas, são exemplos de programas que são
+instalados nos computadores.
+A figura 1.2 mostra a interação do utilizador com o computador identificando as duas camadas
+de software. Usando esta divisão por camadas, os programas ficam apenas comprometidos com determinado SO
+e são independentes do hardware. Podem existir programas que usam diretamente o hardware,
+mas isso impede que funcionem noutros computadores com hardware diferente.
+No texto deste livro, a grande maioria da informação é independente do sistema operativo,
+mas quando for necessário dar exemplos concretos da utilização de um deles, será usado o Windows
+e o leitor que use outro terá que consultar a documentação do seu sistema operativo para fazer o
+equivalente.

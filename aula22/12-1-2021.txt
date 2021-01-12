@@ -1,0 +1,31 @@
+- 4ª Ficha no moodle - aula de 21 de Janeiro
+
+- 12 de Janeiro da parte da tarde - ver estado do 3ºTrabalho, tirar dúvidas 
+    - 15 minutos para cada grupo 
+Calendário
+    Terça-feira 12 de Janeiro
+        14:30 - G7 
+        14:45 - G13 
+        15:15 - G2 
+        15:30 - G3 
+        15:45 - G4
+        16:15 - G6
+        16:45 - G8
+        17:00 - G9
+        17:15 - G10
+        17:30 - G11
+        17:45 - G12
+        18:15 - G14
+        18:30 - G15
+Quem não tiver disponibilidade envie mensagem
+
+- Revisão da última aula - Instrução while
+    - fun readLines() :List<String>
+- Percorrer a lista com while e forEach
+- While dentro de while
+- Função para ver se um número é primo
+    - sem break
+    - com break
+    - com return
+- Criar uma lista uma sequência de inteiros - com while
+- Pesquisa sequêncial
