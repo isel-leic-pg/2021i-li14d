@@ -1,0 +1,57 @@
+- 4ª Ficha no moodle - aula de 21 de Janeiro
+
+- 19 de Janeiro da parte da tarde - ver estado do 3ºTrabalho, tirar dúvidas 
+    - 15 minutos para cada grupo 
+Calendário
+    Terça-feira 19 de Janeiro
+        15:00 - G1  
+        15:15 - G2 
+        15:30 - G3 
+        15:45 - G4
+        16:00 - G5
+        16:15 - G6
+        16:30 - G7
+        16:45 - G8
+        17:00 - G9
+        17:15 - G10
+        17:30 - G11
+        17:45 - G12
+        18:00 - G13
+        18:15 - G14
+        18:30 - G15
+Quem não tiver disponibilidade envie mensagem
+
+- Revisão nullable types
+    - ?. safe call operator
+    - ?: elvis operator
+    - let 
+- Enumerados
+    - Um enumerado é um tipo que tem um conjunto limitado de valores. Cada valor tem um nome
+    e o respetivo número de ordem da definição.
+    - Propriedade ordinal
+    - Propriedade name
+
+- Operadores 
+    - Incremento, decremento - prefixo e sufixo
+    - +=, -=, *=, /=, %=
+
+- Criar uma lista de inteiros
+    - Com while
+    - Com for
+    - Com intervalo 
+- Encontrar um valor na lista
+- Encontrar o menor valor na lista
+- Ordenar
+- do while
+
+- Percorrer uma lista de forma recursiva
+- Find Recursivo
+- Pesquisa binária
+
+- função repeat
+- typeAlias
+- Sum, Any, Reduce
+- Listas Mutaveis
+- Create com listas mutáveis
+
+
