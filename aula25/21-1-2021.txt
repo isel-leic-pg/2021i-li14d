@@ -1,0 +1,14 @@
+
+- Dúvidas sobre a Avaliação
+- 4ªFicha - começa às 11:40
+
+- Função recursiva simples, retorna o número de chamadas
+- Função repeat
+- Range como valor - dúvida
+- Create usando this
+- Função toString
+- typeAlias
+- Fazer Find com student
+- Funções sum, reduce, any
+- Listas Mutaveis
+- Sort com listas mutáveis
